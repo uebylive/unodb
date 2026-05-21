@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['portability_5farch_2ehpp_0',['portability_arch.hpp',['../portability__arch_8hpp.html',1,'']]],
-  ['portability_5fbuiltins_2ehpp_1',['portability_builtins.hpp',['../portability__builtins_8hpp.html',1,'']]]
+  ['micro_5fbenchmark_5fkey_5fview_2ecpp_0',['micro_benchmark_key_view.cpp',['../micro__benchmark__key__view_8cpp.html',1,'']]]
 ];
